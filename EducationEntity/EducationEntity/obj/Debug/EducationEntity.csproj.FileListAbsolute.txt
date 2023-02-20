@@ -1,0 +1,16 @@
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EducationEntity.exe.config
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EducationEntity.exe
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EducationEntity.pdb
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EntityFramework.dll
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EntityFramework.xml
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.csproj.AssemblyReference.cache
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.Form1.resources
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.Properties.Resources.resources
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.csproj.GenerateResource.cache
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.csproj.CoreCompileInputs.cache
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.csproj.CopyComplete
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.exe
+C:\Users\sakao\source\repos\EducationEntity\EducationEntity\obj\Debug\EducationEntity.pdb
